@@ -4,6 +4,10 @@
 
 The Loan.csv dataset contains information on loan applicants, their financial details, employment statuses, and other attributes. This dataset is designed to analyze and predict patterns related to loan approvals, income levels, employment, and risk ratings. It is ideal for use in data analysis, business intelligence, and machine learning projects.
 
+## Objective
+
+The objective of the dataset analysis is to analyze factors that influence loan approvals and risk assessment based on the Applicants annual income level, Employment status, Credit Score etc.
+
 ## Features
 The dataset includes the following columns (attributes):
 
@@ -43,8 +47,3 @@ The dataset includes the following columns (attributes):
 34. TotalDebtToIncomeRatio: The total debt as a percentage of income (numerical, as a percentage).
 35. LoanApproved: A binary indicator for loan approval (1 = Approved, 0 = Denied).
 36. RiskScore: A score reflecting the financial risk of the applicant (numerical).
-
-## Objective
-
-The objective of the dataset analysis is to analyze factors that influence loan approvals and risk assessment based on the Applicants annual income level, Employment status, Credit Score etc.
-
