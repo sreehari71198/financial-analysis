@@ -1,10 +1,10 @@
 # Financial Loan Analysis
 
-# Overview
+## Overview
 
 The Loan.csv dataset contains information on loan applicants, their financial details, employment statuses, and other attributes. This dataset is designed to analyze and predict patterns related to loan approvals, income levels, employment, and risk ratings. It is ideal for use in data analysis, business intelligence, and machine learning projects.
 
-# Features
+## Features
 The dataset includes the following columns (attributes):
 
 1. ApplicationDate: The date when the loan application was submitted (string format).
@@ -44,7 +44,7 @@ The dataset includes the following columns (attributes):
 35. LoanApproved: A binary indicator for loan approval (1 = Approved, 0 = Denied).
 36. RiskScore: A score reflecting the financial risk of the applicant (numerical).
 
-# Objective
+## Objective
 
 The objective of the dataset analysis is to analyze factors that influence loan approvals and risk assessment based on the Applicants annual income level, Employemnt status, Credit Score etc.
 
