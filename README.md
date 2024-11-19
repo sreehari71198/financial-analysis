@@ -44,4 +44,7 @@ The dataset includes the following columns (attributes):
 35. LoanApproved: A binary indicator for loan approval (1 = Approved, 0 = Denied).
 36. RiskScore: A score reflecting the financial risk of the applicant (numerical).
 
+# Objective
+
+The objective of the dataset analysis is to analyze factors that influence loan approvals and risk assessment based on the Applicants annual income level, Employemnt status, Credit Score etc.
 
