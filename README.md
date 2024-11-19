@@ -46,5 +46,5 @@ The dataset includes the following columns (attributes):
 
 ## Objective
 
-The objective of the dataset analysis is to analyze factors that influence loan approvals and risk assessment based on the Applicants annual income level, Employemnt status, Credit Score etc.
+The objective of the dataset analysis is to analyze factors that influence loan approvals and risk assessment based on the Applicants annual income level, Employment status, Credit Score etc.
 
